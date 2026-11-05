@@ -1,37 +1,24 @@
-## 👋 Hi! I'm Kael
+## 👋 Hi, I'm Cherry
 
 <p align="left">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Rust-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
-  <img src="https://img.shields.io/badge/Python-3568A3?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
-  <!-- Domains -->
-  <img src="https://img.shields.io/badge/DeFi-5A2B93?style=for-the-badge&logo=ethereum&logoColor=white" alt="DeFi"/>
-  <img src="https://img.shields.io/badge/Prediction%20Markets-8A2BE2?style=for-the-badge&logo=polkadot&logoColor=white" alt="Prediction Markets"/>
-  <img src="https://img.shields.io/badge/Exchanges%20%26%20DEX-3A77D4?style=for-the-badge&logo=near&logoColor=white" alt="Exchanges & DEX"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-7F3FBF?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents"/>
-  <img src="https://img.shields.io/badge/Privacy%20%26%20ZK-1C1C1C?style=for-the-badge&logo=target&logoColor=white" alt="Privacy & ZK"/>
-  <img src="https://img.shields.io/badge/Product%20UX-C64B7A?style=for-the-badge&logo=dribbble&logoColor=white" alt="Product UX"/>
+  <img src="https://img.shields.io/badge/AI%20Engineering-6B4EFF?style=for-the-badge&logo=openai&logoColor=white" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/AI%20Agents-7B42BC?style=for-the-badge&logo=probot&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/DeFi-167D7F?style=for-the-badge&logo=ethereum&logoColor=white" alt="DeFi" />
+  <img src="https://img.shields.io/badge/Prediction%20Markets-CE6C34?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Prediction Markets" />
+  <img src="https://img.shields.io/badge/Exchanges-315DA8?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Exchanges" />
 </p>
 
-I'm a **Co-founder, Product Architect, and Crypto Researcher**. My primary engineering and research focus centers on **DeFi protocols, Prediction Markets, Decentralized Exchanges, and autonomous AI Agent systems**.
+I explore the intersection of AI, financial systems and product design. My work spans multi-agent simulations, decentralized finance and applications that make complex decisions easier to understand.
 
-My core principle is simple: **Build great UX layers on top of complex products.** I design non-custodial financial primitives, cross-chain execution pipelines, and agentic workflows that turn sophisticated mechanisms into frictionless, intuitive user experiences.
+I enjoy turning ideas into working prototypes: exploring how different participants respond to incentives, how financial products work, and how AI agents can help people investigate possible outcomes. I care about clear interfaces, transparent assumptions and results that can be examined.
 
-### 🛠️ What I Research & Build
+### 🔍 Areas I explore
 
-- **DeFi & Derivatives**: Structured vault architectures, decentralized options ladders, collateral liquidation protection systems, and non-custodial lending protocols.
-- **Prediction Markets & Forecasting**: Continuous probabilistic order book mechanisms, automated liquidity provision (AMM) strategies, and verifiable on-chain oracle settlement.
-- **Exchanges & Trading Infrastructure**: Intent-based cross-chain routing, DEX aggregation protocols, and algorithmic execution bot architectures.
-- **AI Agents & AgentFi**: Swarm intelligence simulations, multi-agent decision rehearsal environments, autonomous on-chain workflows, and Model Context Protocol (MCP) integrations.
-- **Privacy & Cryptography**: Zero-knowledge proving pipelines, shielded transaction mechanisms, and verifiable cryptographic commitment schemes.
+- **AI engineering & agents:** multi-agent systems, decision simulations and agent workflows.
+- **DeFi & on-chain systems:** lending, incentive design, wallets, smart contracts and governance.
+- **Markets & exchanges:** prediction markets, trading, derivatives and exchange prototypes.
+- **Product experiences:** web and mobile interfaces that make complex systems more approachable.
 
-### ⚡ Engineering Principles
+### 🛠️ Tools & technologies
 
-- **Mechanism Beats Marketing**: Load-bearing mathematics, verifiable on-chain commitments, and transparent risk boundaries.
-- **Non-Custodial Integrity**: Zero opaque randomness, strict user wallet authority, and explicit transaction approval.
-- **Speed as a Mechanic**: High-throughput, real-time responsive interfaces that respect user focus and minimize cognitive overhead.
-
-I'm always interested in discussing protocol architectures, novel financial mechanisms, and collaborating with high-caliber builders in the Web3 and AI space. **Feel free to reach out for research discussions or technical collaborations.**
+Python · TypeScript · React Native · Rust · NEAR · Smart contracts
